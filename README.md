@@ -4,7 +4,7 @@ a crud application with react-vite based frontend and backend made with node and
 
 # for flask backend:
  1. Create a virtual environment
-    ```bash python -m venv venv
+    ```bash python -m venv venv bash```
 
  3. Activate the virtual environment
   Windows (PowerShell):
