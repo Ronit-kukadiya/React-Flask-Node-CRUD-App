@@ -11,9 +11,11 @@ a crud application with react-vite based frontend and backend made with node and
   Windows (PowerShell):
  
     ```venv\Scripts\Activate.ps1```
+    
   Windows (CMD):
  
     ```venv\Scripts\activate```
+    
   macOS / Linux:
  
     ```source venv/bin/activate```
