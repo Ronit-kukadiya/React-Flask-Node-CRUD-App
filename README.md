@@ -47,9 +47,13 @@ a crud application with react-vite based frontend and backend made with node and
 
 
 The frontend communicates with the backend using REST APIs.
+I have implemented the backend in both Flask and Node to explore how each works.
+
+# *Important*: 
+At any given time, the frontend should connect to only one backend. Make sure only one backend server is running before starting the frontend.
 
 Backend URLs
-  1. Flask backend: http://localhost:5000
 
-  2. Node backend: http://localhost:3000
-    
+ 1. Flask backend: http://localhost:5000
+
+ 2. Node backend: http://localhost:3000
