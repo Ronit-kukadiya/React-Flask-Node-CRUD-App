@@ -7,7 +7,8 @@ a crud application with react-vite based frontend and backend made with node and
      
     ```python -m venv venv ```
  
- 3. Activate the virtual environment
+ 2. Activate the virtual environment
+ 
   Windows (PowerShell):
  
     ```venv\Scripts\Activate.ps1```
@@ -20,11 +21,11 @@ a crud application with react-vite based frontend and backend made with node and
  
     ```source venv/bin/activate```
     
- 5. Install dependencies
+ 3. Install dependencies
  
   ```pip install -r requirements.txt```
 
- 7. Run the Flask server
+ 4. Run the Flask server
  
   ```python main.py```
   The backend will start at:
@@ -37,11 +38,11 @@ a crud application with react-vite based frontend and backend made with node and
  
   ```npm install```
 
- 3. Install nodemon
+ 2. Install nodemon
  
   ```npm i -g nodemon```
 
- 5. Run the server
+ 3. Run the server
  
   ```nodemon index.js```
   The backend will start at:
