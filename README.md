@@ -4,9 +4,10 @@ a crud application with react-vite based frontend and backend made with node and
 
 # for flask backend:
  1. Create a virtual environment
+    ```bash
   python -m venv venv
 
- 2. Activate the virtual environment
+ 3. Activate the virtual environment
   Windows (PowerShell):
     venv\Scripts\Activate.ps1
   Windows (CMD):
@@ -14,10 +15,10 @@ a crud application with react-vite based frontend and backend made with node and
   macOS / Linux:
     source venv/bin/activate
     
- 3. Install dependencies
+ 4. Install dependencies
   pip install -r requirements.txt
 
- 4. Run the Flask server
+ 5. Run the Flask server
   python main.py
   The backend will start at:
     http://localhost:5000
