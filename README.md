@@ -1,5 +1,5 @@
 ## React-Flask-Node-CRUD-App
-a crud application with react-vite based frontend and backend made with node and flask
+a crud application with react-vite based frontend and 2 backends made with Node and Flask
 
 
 # for flask backend:
